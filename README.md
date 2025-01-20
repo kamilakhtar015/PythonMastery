@@ -9,7 +9,7 @@ Python crash content covering beginner to advanced topics with hands-on exercise
 - **Pattern Printing**
 - **Problems**
 
-### 2. **Python Lists** ✅ *(Added on [date])*
+### 2. **Python Lists** ✅
 - **Introduction to Lists**: Creating and accessing lists.
 - **List Methods**: append(), insert(), pop(), remove(), etc.
 - **List Comprehensions**: Creating lists using for loops.
