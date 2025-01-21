@@ -16,6 +16,8 @@ Python crash content covering beginner to advanced topics with hands-on exercise
 - **Nested Lists**: Working with lists inside lists.
 - **Practice Problems**: Solved practices problems related to python list
 
-### 3. **Python Tuples** *(Coming Soon)*  
-- A brief overview of tuples, how to create and use them.
+### 3. **Python Tuples, Sets, and Dictionary**  
+- **Introduction to Tuples, Sets and Dictionary**
+- **Methods**
+- **Operations**
 
