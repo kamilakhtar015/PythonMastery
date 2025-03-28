@@ -23,3 +23,7 @@ Python crash content covering beginner to advanced topics with hands-on exercise
 
 ### 4. **Functions in Python**
 
+## Summary
+
+This repo covers Python basics to advanced content in a structured format.
+Explore more concepts
