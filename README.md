@@ -22,6 +22,10 @@ Python crash content covering beginner to advanced topics with hands-on exercise
 - **Operations**
 
 ### 4. **Functions in Python**
+-- Done with build in functions and types
+
+### 5. OOP - Object Oriented Programming
+
 
 ## Summary
 
