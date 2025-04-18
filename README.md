@@ -4,7 +4,7 @@ Python crash content covering beginner to advanced topics with hands-on exercise
 ## Topics Covered 📚
 
 ### 1. **Python Basics** ✅
-- **If - Else statements**
+- **If - Else statements** 
 - **User input**
 - **Pattern Printing**
 - **Problems**
