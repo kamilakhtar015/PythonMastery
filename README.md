@@ -13,7 +13,7 @@ Python crash content covering beginner to advanced topics with hands-on exercise
 - **Introduction to Lists**: Creating and accessing lists.
 - **List Methods**: append(), insert(), pop(), remove(), etc. 
 - **List Comprehensions**: Creating lists using for loops.
-- **Nested Lists**: Working with lists inside lists.
+- **Nested Lists**: Working with lists inside lists.   
 - **Practice Problems**: Solved practices problems related to python list
 
 ### 3. **Python Tuples, Sets, and Dictionary** ✅
