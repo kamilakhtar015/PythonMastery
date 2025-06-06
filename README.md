@@ -26,8 +26,9 @@ Python crash content covering beginner to advanced topics with hands-on exercise
 
 ### 5. OOP - Object Oriented Programming
 -- Classes and objects 
+-- Four Pillars of Python
 
-## Summary
+## Summary   
 
 This repo covers Python basics to advanced content in a structured format.  
 Explore more concepts and futher improve your skillset
